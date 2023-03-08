@@ -6,7 +6,7 @@ This is a pure frontend application implemented in ```ReactJs``` using ```bootst
 
 ## Features
 
-1. User can create their resume by entering the details in the form after visiting the above link. User can add their following details in the app to generate their resume-   
+1. User can create their resume by entering the details in the form after visiting the above link. User can add their following details in the app to generate their resume -   
     - Personal Details
     - Skills
     - Work Experience
